@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🔭 I’m currently working on music
+- 🌱 I’m currently learning github
 
 <!--
 **akikoyamane/akikoyamane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
