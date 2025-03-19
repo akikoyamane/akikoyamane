@@ -1,5 +1,4 @@
-## Hi there 👋
-- 🔭 I’m currently working on music
+## (இ﹏இ`｡)
 - 🌱 I’m currently learning github
 
 <!--
